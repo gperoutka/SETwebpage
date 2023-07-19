@@ -475,7 +475,12 @@ button {
 }
 
 .image_1{
-     width: 100%;
+     width: 100%;;
+     float: left;
+}
+
+.image_about{
+     width: 60%;;
      float: left;
 }
 
